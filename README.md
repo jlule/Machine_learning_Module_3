@@ -1,1 +1,3 @@
 # Machine_learning_Module_3
+
+## Reddic Housing LLC hired our machine learning team to leverage the XGBoost algorithm to predict the price of houses in Seattle, Washington utilizing data from the years 2014 - 2015. The executive team requested specific information to ensure the company is not left behind rival companies. The information requested includes quantifiable evidence that our predictions are reliable, evidence showing which property types weighed most heavily in the prices predicted by our model, and insights into any additional data about these properties we are not currently taking into account which would improve future price predictions.
